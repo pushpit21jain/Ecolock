@@ -6,13 +6,13 @@ A modern, secure voice biometric authentication system built with React, TypeScr
 
 - **Real Voice Processing**: Actual microphone recording and audio analysis
 - **Secure Backend API**: JWT authentication, rate limiting, and data validation
-- **Voice Profile Management**: Create, manage, and authenticate with voice profiles
+- **Voice Profile Management**: Create, manage, and authenticate with voice profiles 
 - **Real-time Analytics**: Live voice visualization and authentication metrics
 - **Database Integration**: SQLite database with user management and audit logs
 - **Modern UI**: Beautiful, responsive interface with Tailwind CSS
 
 ## 🛠️ Tech Stack
-
+ 
 ### Frontend
 - React 18 with TypeScript
 - Vite for build tooling
