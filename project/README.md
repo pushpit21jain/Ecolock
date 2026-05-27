@@ -137,7 +137,7 @@ The frontend will start on `http://localhost:5173`
 - `POST /api/users/api-keys` - Generate API key
 
 ## 🗄️ Database Schema
-
+              /
 ### Users Table
 - `id` - Unique user identifier
 - `email` - User email (unique)
