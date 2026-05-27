@@ -25,7 +25,7 @@ A modern, secure voice biometric authentication system built with React, TypeScr
 - Node.js with Express
 - SQLite database
 - JWT authentication
-- Multer for file uploads
+- Multer for file uploads 
 - bcryptjs for password hashing
 - Express validator for input validation
 
